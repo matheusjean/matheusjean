@@ -30,8 +30,7 @@
   <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-black?style=flat&logo=postgresql&logoColor=blue)<a/>
   <a href="https://www.postgresql.org/"> ![SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-black?style=flat&logo=microsoft&logoColor=blue)<a/>
   <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=339933)<a/>
-  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
-      
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusjean&theme=default&show_icons=true&hide=issues&hide_border=true" alt="matheusjean" />
 </p>
