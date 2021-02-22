@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/higorhms)](https://github.com/matheusjean)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-jean-a909b6b9/)](https://www.linkedin.com/in/matheus-jean-a909b6b9/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522999895384&text=Olá!)](https://api.whatsapp.com/send?phone=5522999895384&text=Olá!)
-[![Hotmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjean11@hotmail.com)](mailto:matheusjean11@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjean11@hotmail.com)](mailto:matheusjean11@hotmail.com)
 
 #### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
 
