@@ -9,7 +9,7 @@
 
 - 💻 <b>Programming Languages</b>: 
     </br>
-  
+  <a href="https://www.typescriptlang.org/"> ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)<a/>
   <a href="https://www.javascript.com/"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)<a/>
     
 - 💻 <b>Front-End</b>: 
