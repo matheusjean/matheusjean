@@ -14,8 +14,10 @@
     
 - 💻 <b>Front-End</b>: 
     </br>
-  <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/> 
+  <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/>
+  <a href="https://nextjs.org/"> ![NextJS Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<a/>
   <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/>
+  
     
 - 💻 <b>Back-End</b>: 
     </br>
