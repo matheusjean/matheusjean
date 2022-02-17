@@ -32,7 +32,11 @@
   <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-black?style=flat&logo=postgresql&logoColor=blue)<a/>
   <a href="https://www.postgresql.org/"> ![SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-black?style=flat&logo=microsoft&logoColor=blue)<a/>
   <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=339933)<a/>
-  
+      
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjean&langs_count=3" alt="toplangs" />
+</p>
+      
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusjean&theme=default&show_icons=true&hide=issues&hide_border=true" alt="matheusjean" />
 </p>
