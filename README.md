@@ -11,17 +11,21 @@
     </br>
   <a href="https://www.typescriptlang.org/"> ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)<a/>
   <a href="https://www.javascript.com/"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)<a/>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> ![Java Badge](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk&logoColor=white)<a/>
     
 - 💻 <b>Front-End</b>: 
     </br>
   <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/>
   <a href="https://nextjs.org/"> ![NextJS Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<a/>
   <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/>
+  <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=c21325)<a/>
   
     
 - 💻 <b>Back-End</b>: 
     </br>
   <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
+  <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=339933)<a/>
+  <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=c21325)<a/>
     
 - :gear: <b>Cloud</b>: 
     </br>
